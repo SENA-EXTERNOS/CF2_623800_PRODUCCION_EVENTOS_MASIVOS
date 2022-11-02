@@ -1,9 +1,11 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: rotation 19s infinite linear
     position: absolute
-    top: 40%
-    right: 50%
+    top: 11%
+    left: -6%
+    width: 100%
+    z-index: -1
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
@@ -17,3 +19,288 @@
 
   100%
     transform: translateY(0px)
+
+@-webkit-keyframes rotation 
+  from 
+    -webkit-transform: rotate(0deg)  
+  to 
+    -webkit-transform: rotate(359deg)
+
+
+.banner-principal__img 
+    padding-top: 0rem !important;
+    padding-bottom: 0rem !important;
+    margin-left: 0%;
+    width: auto;
+    margin-top: 5px;
+    margin-bottom: 50px;
+  
+.banner-principal__img
+  z-index: 1
+
+/////////////////////color-----------------
+
+.cajon.color-primario 
+    background-color: #FFF6DB
+
+.color-morado
+  background-color: #E8E2FD
+
+  .color-morado:before
+  background-color: #E8E2FD
+
+.color-amarillo
+  background-color: #FFC400
+
+
+
+
+////////////slyder------------------------
+
+.slyderA_bg_01
+  background-image: url("../assets/curso/temas/tema1/fondo1.png") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 30px !important
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #5038A1
+  opacity: 1
+
+.slyder-a__bullets__item--active
+    background-color: #5038A1
+
+
+///////////////////bloque texto---------------------------
+
+.bloque-texto-g1__texto 
+    position: relative
+    width: 100%
+    background-color: rgba(255, 255, 255, 0.95)
+
+.bloque-texto-g1__img 
+    width: 40%
+    position: absolute
+    top: 0
+    left: 0px
+    bottom: 0
+    background-position: center
+    background-size: cover
+
+.bloque-texto-g2__texto 
+  position: relative
+  width: 50%
+  background-color: rgba(255, 255, 255, 0.95);
+  @media (max-width: 500px)
+    width: 100%
+    top: 10px
+///////////////////bloque texto b---------------------------
+
+.bloque-texto-b.color-acento-contenido:before 
+    background-color: #E8E2FD
+
+.bloque-texto-b
+    position: relative
+
+.bloque-texto-b:before
+    top: 40%
+    bottom: 10px
+    left: 0%
+    right: 50%
+    background-color: #E8E2FD !important
+
+.bloque-texto-b1
+  position: relative
+  &::before  
+    top: 72%
+    bottom: 15%
+    left: 13%
+    right: 30%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #E8E2FD !important
+
+  &__texto 
+      position: relative
+
+.bloque-texto-b2
+  position: relative
+  &::before  
+    top: 33%
+    bottom: 37%
+    left: 42%
+    right: 8%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #E8E2FD !important
+
+  &__texto 
+      position: relative
+
+.bloque-texto-b3
+  position: relative
+  &::before  
+    top: 70%
+    bottom: 40px
+    left: 20%
+    right: 20%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #E8E2FD !important
+
+  &__texto 
+      position: relative
+      z-index: 1
+
+
+.bloque-texto-b4
+  position: relative
+  &::before  
+    top: 20%
+    bottom: 50%
+    left: 45%
+    right: 4%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #E8E2FD !important
+
+  &__texto 
+      position: relative
+
+
+
+
+//////////////////tarjetas-----------
+
+.tarjeta--morada
+  background-color: #D7CCFB
+
+.tarjeta--morada3
+  background-color: #8C6DF2
+  margin-top: -15px
+////////////////acordeon-----------------
+
+
+.acordion__accion__btn--a
+  background-color: #FFFFFF !important
+
+.acordion__activo
+  background-color: #FEDC72 !important
+
+/////////////infografia animada---------------
+
+.img-infografica.color-primario .img-infografica__item__dot:before
+    background-color: #FFC400
+
+///////////cajon color----------------
+
+.cajon.color-acento-contenido
+    background-color: #E2DAFC
+
+////////////////////imagenes---------------------
+
+.img12-tm2
+  width: 70%
+  position: relative
+  left: 30%
+  @media (max-width: 500px)
+    width: 100%
+    position: relative
+    left: 0%
+
+.img15-tm3
+  position: relative
+  max-width: 200%
+  width: 185%
+  right: 90%
+  top: 22%
+  @media (max-width: 500px)
+    position: relative
+    width: 100%
+    right: 0px
+    left: 0%
+    top: 0%
+
+
+
+
+/////////////////////tarjeta avatar-------------------
+
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 2rem
+  & > *
+    position: relative
+  h5 
+    color: #7F4FC7
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 25px
+    right: 0
+    width: calc( 95% - 60px)
+    height: 208px
+    background-color: #FFF8E3
+  @media (max-width: 500px)
+    &::before  
+      position: absolute 
+      content: ''
+      top: 0
+      right: 0
+      width: calc( 100% - 0px)
+      height: 100%
+      background-color: #C5E5FE
+      padding-left: 5rem
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first, .crd--last
+  &::before 
+    background-color: #DDEDF8 !important
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
+
+.img1-t3
+  @media (max-width: 500px)
+    position: relative
+    left: 70px
+
+.tex-left
+  @media (max-width: 500px)
+    position: relative
+    left: 15px
+
+.tarjeta--morada2
+  background-color: #D7CCFB
+  border-radius: 25px
+  width: 250px
+  height: 250px
+
+.carrusel-morado
+    width: 270px
+    height: 530px
+
+.tamaño-tarjeta
+  width: 250px
+  height: 350px
