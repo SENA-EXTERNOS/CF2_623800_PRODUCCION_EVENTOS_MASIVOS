@@ -177,7 +177,7 @@
 
     .row.justify-content-center.my-5
       TabsC.color-primario
-        .py-3.py-md-4(titulo="Símbolo de inicio y final").tarjeta--morada3
+        .py-3.py-md-4(titulo="Símbolo de inicio y final").tarjeta--morada3.texto-blanco
           .row.p-5
             .col-md-6.mb-4.mb-md-0
               figure
@@ -185,7 +185,7 @@
             .col-md-6
               p.mt-5 El óvalo representa el inicio o el final de un proceso.
 
-        .py-3.py-md-4(titulo="Símbolo de proceso/actividad").tarjeta--morada3
+        .py-3.py-md-4(titulo="Símbolo de proceso/actividad").tarjeta--morada3.texto-blanco
           .row.p-5
             .col-md-6.mb-4.mb-md-0
               figure
@@ -193,7 +193,7 @@
             .col-md-6
               p.mt-5 El rectángulo representa un paso del proceso.
 
-        .py-3.py-md-4(titulo="Las líneas y flechas ").tarjeta--morada3
+        .py-3.py-md-4(titulo="Las líneas y flechas ").tarjeta--morada3.texto-blanco
           .row.p-5
             .col-md-6.mb-4.mb-md-0
               figure
@@ -201,7 +201,7 @@
             .col-md-6
               p.mt-5 Muestran la secuencia de los pasos y las relaciones entre ellos. 
 
-        .py-3.py-md-4(titulo="Rombo ").tarjeta--morada3
+        .py-3.py-md-4(titulo="Rombo ").tarjeta--morada3.texto-blanco
           .row.p-5
             .col-md-6.mb-4.mb-md-0
               figure
