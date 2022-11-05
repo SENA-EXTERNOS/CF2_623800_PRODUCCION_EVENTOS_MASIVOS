@@ -8,7 +8,7 @@
       h1 Plan de trabajo de un evento
 
     .row.justify-content-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="zoom-in-up")
         .crd.crd--avatarHorizontal.py-4
           .row.align-items-center
             .col-auto
@@ -23,7 +23,7 @@
 
     .row.justify-content-center.my-5
       .col-10.col-lg-3.my-3
-        .tarjeta--morada2.p-4
+        .tarjeta--morada2.p-4(data-aos="flip-left")
           .row.justify-content-center
             .col-6.col-lg-6
               figure
@@ -33,7 +33,7 @@
               p.text-center Las acciones tareas por desarrollar.  
 
       .col-10.col-lg-3.my-3
-        .tarjeta--morada2.p-4
+        .tarjeta--morada2.p-4(data-aos="flip-down")
           .row.justify-content-center
             .col-6.col-lg-6
               figure
@@ -43,7 +43,7 @@
               p.text-center Tiempo para la realización de cada tarea.  
 
       .col-10.col-lg-3.my-3
-        .tarjeta--morada2.p-4
+        .tarjeta--morada2.p-4(data-aos="flip-right")
           .row.justify-content-center
             .col-6.col-lg-6
               figure
@@ -55,7 +55,7 @@
     .row.justify-content-center.my-5
       .col-lg-9
         .row.justify-content-center.my-3
-          .col-4.col-lg-2
+          .col-4.col-lg-2(data-aos="zoom-in-down")
             figure
               img(src="@/assets/curso/temas/tema3/img5.png", alt="alt")        
           .col-lg-10
@@ -66,7 +66,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1 Organigrama
 
-    .row.justify-content-center.my-5
+    .row.justify-content-center.my-5(data-aos="flip-up")
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
         .bloque-texto-g__img(
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img6.png')})`}")
@@ -77,7 +77,7 @@
       p Hay varios tipos de organigramas que se pueden aplicar a los eventos:
 
     .row.my-5
-      .tarjeta.tarjeta--blanca.slyderA_bg_01.p-5
+      .tarjeta.tarjeta--blanca.slyderA_bg_01.p-5(data-aos="zoom-out")
         SlyderA(tipo="b")
           .row
             .col-lg-6
@@ -104,13 +104,16 @@
                 img(src="@/assets/curso/temas/tema3/img7-3.png", alt="alt")
 
     .row.justify-content-center.my-5
-      .col-lg-10
-        .cajon.color-acento-botones.p-3
+      .col-lg-10(data-aos="fade-right")
+        .cajon.color-acento-contenido.p-3
           p Es necesario tener presente que existen algunos componentes en común dentro de un organigrama como son niveles altos de la organización o comité organizador, los subcomités, recursos de apoyo, comité de control y evaluación. 
           p El organigrama se puede elaborar teniendo como base los tipos existentes y de acuerdo con la necesidad de cada evento.
-      .col-6.col-lg-2
+      .col-6.col-lg-2(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema3/img8.png", alt="alt")
+
+    .row.my-5
+      p A continuación se visualizará algunos de los que pueden llegar a conformar el organigrama del evento y que funciones tienen a cargo:
 
     .row.justify-content-center.my-5
       SlyderF(columnas="col-lg-6 col-xl-4")
@@ -150,13 +153,13 @@
           p.text-center Tienen a su cargo toda la gestión del lugar donde se desarrollará el evento, montaje y desmontaje del escenario, decoración, luces, sonido, distribución del espacio para que todos los invitados y asistentes se sientan a gusto.
 
     .row.justify-content-center.my-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-down")
         .bloque-texto-g.color-morado.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img14.png')})`}"
           )
           .bloque-texto-g__texto.p-3
-            p  Para un estudio completo del tema, recuerde explorar todos los recursos que se encuentran disponibles en este componente formativo, y que encuentra en el menú principal, tales como material complementario, actividad didáctica, glosario, entre otros. 
+            p En el material complementario encontrará el tema: Plan de trabajo de un evento - Organigrama, por favor visite el enlace y complemente este tema con la información que allí se relaciona. 
 
     separador
 
@@ -213,7 +216,7 @@
       p Existen diferentes tipos de flujogramas, a continuación se explicarán los que pueden ser de mayor utilidad para la organización de eventos. Estos son: 
 
     .row.justify-content-center.my-5
-      .col-lg-7.my-5
+      .col-lg-7.my-5(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema3/img20.png', alt='Texto que describa la imagen') 
       .col-lg-5  
@@ -257,16 +260,16 @@
       h2 3.3 Cronograma
 
     .row.justify-content-center.my-5
-      .col-lg-10
+      .col-lg-10(data-aos="fade-up")
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img22.png')})`}"
           )
           .bloque-texto-g__texto.p-3
-            p El nombre cronograma viene de griego krónos, “tiempo”, y grámma, “letra”, es una representación gráfica, ordenada y esquemática de eventos, generalmente venideros. Esta es una herramienta muy útil para realizar el seguimiento de cada tarea o actividad en forma cronológica, con un responsable a cargo de desarrollarla.
+            p El nombre cronograma viene de griego #[i krónos], “tiempo”, y #[i grámma], “letra”, es una representación gráfica, ordenada y esquemática de eventos, generalmente venideros. Esta es una herramienta muy útil para realizar el seguimiento de cada tarea o actividad en forma cronológica, con un responsable a cargo de desarrollarla.
             br
             br
-            p Es importante mencionar que existen dos diagramas que también apoyan la labor de la organización de un evento como son el de Gantt y el de Pert .
+            p Es importante mencionar que existen dos diagramas que también apoyan la labor de la organización de un evento como son el de #[i Gantt] y el de #[i Pert].
 
     .row.justify-content-center.my-5
       TabsC.color-primario
@@ -311,14 +314,14 @@
                   i.fas.fa-check
                   |  Establecer los responsables teniendo en cuenta el comité de eventos y las actividades a desarrollar.
         
-        .py-3.py-md-4(titulo="Las líneas y flechas ").tarjeta--morada3.texto-blanco
+        .py-3.py-md-4(titulo="El Diagrama de <i>Pert</i>").tarjeta--morada3.texto-blanco
           .row.p-5
             .col-8.col-lg-4
               figure
                 img(src='@/assets/curso/temas/tema3/img25.png', alt='Texto que describa la imagen')
             .col-lg-8
               p Es una herramienta que se usa como técnica de revisión y evaluación de programas, tiene como objetivo programar, planificar y controlar proyectos de gran envergadura que, debido al gran número de actividades, que forman parte de este, necesitan una coordinación efectiva. 
-              p #[i Pert] significa (Program Evaluation and Review Technique – Técnica de revisión y evaluación de programas), donde se desglosan de manera individual las actividades. Los pasos para tener en cuenta para la creación de un diagrama #[i Pert] son:
+              p #[i Pert] significa (#[i Program Evaluation and Review Technique] – Técnica de revisión y evaluación de programas), donde se desglosan de manera individual las actividades. Los pasos para tener en cuenta para la creación de un diagrama #[i Pert] son:
               ul.lista-ul.mb-4
                 li 
                   i.fas.fa-check
@@ -334,7 +337,7 @@
                   | Definir los tiempos de cada actividad estableciendo tres tipos de tiempos: el tiempo mínimo para realizar la actividad, el tiempo máximo para realizar la actividad y el tiempo estimado o preciso para realizar la actividad.
 
     .row.justify-content-center.my-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .bloque-texto-g.color-morado.p-3.p-sm-4.p-md-5
           .bloque-texto-g1__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img2.png')})`}"

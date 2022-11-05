@@ -15,13 +15,13 @@
           br
           p La divulgación de los eventos.
 
-    .row.my-5
+    .row.my-5(data-aos="zoom-in")
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.justify-content-center.my-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-left")
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img1.png')})`}"
@@ -30,7 +30,7 @@
             p Es necesario aclarar que las piezas de comunicación que se quieran utilizar deben contar con la imagen corporativa del evento, y adaptarse dependiendo el medio en el que se vaya a publicar de tal forma que el mensaje sea asertivo y el impacto sea el mismo. Generalmente se crea un comité de medios conformado por un comunicador periodista, un diseñador y un relacionista público quienes se encargan exclusivamente de esta tarea, como con los otros comités se establece un cronograma con base en el cronograma general del evento para ir divulgando el mismo.
   
     .row.justify-content-center.my-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-right")
         .bloque-texto-g.color-morado.p-3.p-sm-4.p-md-5
           .bloque-texto-g1__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img2.png')})`}"

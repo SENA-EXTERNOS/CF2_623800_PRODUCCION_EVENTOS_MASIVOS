@@ -8,18 +8,18 @@
       h1 Fases y producción del evento
 
     .row.justify-content-center
-      .col-lg-7
+      .col-lg-7(data-aos="fade-up-right")
         p Los eventos se van construyendo como todo proyecto con diferentes fases o etapas, en su fase de análisis, se concentra en recolectar información; en la fase de planeación se abre el espectro del evento dependiendo de su objetivo y se empieza a revisar el detalle de cada uno de sus componentes, con base en la magnitud del mismo para luego ejecutarlo con la mayor exactitud, sorteando lo que haya fallado en su planeación,  lo cual se revisa en esa fase de evaluación para hacer las mejoras pertinentes. 
-        p Es importante que se tenga en cuenta cada fase que conforma el evento y ninguna se pase por alto, pues de estas depende el éxito de este. Producir un evento es algo exigible, requiere de una previa preparación en áreas como relaciones públicas, gestión, protocolo, marketing, administración, diseño, logística, manejo de cliente y recurso humano, conocimientos de contratación, entre otros.
+        p Es importante que se tenga en cuenta cada fase que conforma el evento y ninguna se pase por alto, pues de estas depende el éxito de este. Producir un evento es algo exigible, requiere de una previa preparación en áreas como relaciones públicas, gestión, protocolo, #[i marketing], administración, diseño, logística, manejo de cliente y recurso humano, conocimientos de contratación, entre otros.
 
-      .col-lg-5
+      .col-lg-5(data-aos="fade-up-left")
         figure
           img(src="@/assets/curso/temas/tema1/img1.png", alt="alt")
 
     .row.my-5
       p A continuación, se relacionan las fases de un evento:
 
-    .row.my-5
+    .row.my-5(data-aos="flip-left")
       .tarjeta.tarjeta--blanca.slyderA_bg_01.p-5
         SlyderA(tipo="b")
           .row
@@ -47,7 +47,8 @@
 
           .row
             .col-lg-8
-              p En la fase de post producción, se entra a un proceso detallado de evaluación sobre todo lo que aconteció dentro del desarrollo del evento, que haya aportado a su éxito o que haya generado incertidumbre en su momento. 
+              h4 Post producción 
+              p En la fase de #[strong post producción,] se entra a un proceso detallado de evaluación sobre todo lo que aconteció dentro del desarrollo del evento, que haya aportado a su éxito o que haya generado incertidumbre en su momento. 
               p Evaluar un evento permite no solo realizar acciones de mejora, sino determinar cuáles son los puntos frágiles que se deben fortalecer, ya sea en talento humano, los aspectos técnicos o logísticos que se evidenciaron y que deberán corregirse para próximos compromisos. El impacto de un evento es uno de los factores más relevantes dentro de la fase de post producción o evaluación de este, debido a que este es el indicador del cumplimento del objetivo propuesto. 
               p No es menos relevante el informe final que se brinda al cliente, donde se da conocer que se cumplió con todo lo planeado en forma precisa. Los indicadores de calidad del evento deben marcarse desde su producción y serán los que permiten medir su alcance.
               p Es importante que en el cierre de un evento se tenga en cuenta los agradecimientos tanto a quienes intervinieron, como a la audiencia, puesto que esto permite incentivar la asistencia para próximos eventos. Pareciera lógico, pero se puede presentar que a veces estos agradecimientos no se den, adicionalmente en esta fase es cuando se da el paso a las memorias del evento o hacer un buen resumen en redes sociales.
@@ -58,7 +59,7 @@
 
     .row.justify-content-center.my-5
       .col-lg-10
-        .bloque-texto-g.color-morado.p-3.p-sm-4.p-md-5
+        .bloque-texto-g.color-morado.p-3.p-sm-4.p-md-5(data-aos="flip-up")
           .bloque-texto-g1__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img5.png')})`}"
           )
@@ -93,7 +94,7 @@
             p Esta producción se especializa en la parte técnica del evento en especial de espectáculos los cuales exigen tener muy clara las condiciones de este ya sea festival, concierto, entre otros. 
             p Las funciones de la producción técnica se basan en contar con una lista de proveedores en esta área ya sea de sonido, de iluminación e instrumentales que se requieran, exige ser especialista en sonido, Iluminación, instalaciones, reconocer en cada fase del evento las necesidades técnicas que se tengan, estar atentos a eventualidades y con planes de contingencia que hagan que se logre con éxito el evento. 
             p Es exigible realizar #[strong #[i rider] técnico] en caso de eventos como conciertos donde se determina banda y equipo técnico, contacto con responsables, requerimiento mínimo en potencia y número de monitores, de igual forma si es un festival  la función del productor técnico es realizar el #[strong #[i stage plot]] que es la distribución en el escenario de los miembros de la banda y cada equipo a utilizar, para ello se debe realizar un mapa que permita definir en forma clara los espacios en el escenario de tal forma que si se presentan cambios sean manejables .
-            p Para cumplir a cabalidad con la producción técnica es necesario conocer el #[strong #[i backline]] que es todo aquel equipo electrónico de amplificación de audio que se coloca detrás de una banda o agrupación sobre un escenario, estudio de grabación o sala de ensayo para poder hacer un show. Junto con esto diferenciar #[strong los tipos de sonido] los cuales pueden ser de alta frecuencia, frecuencia media y baja frecuencia dependiendo del #[strong espacio si es cerrado] y del tamaño de la sala, se puede emitir un sonido directo que se concentra en la sala como energía sonora, este fenómeno se conoce como reverberación, el sonido en espacios cerrados se emite dependiendo de las paredes las cuales absorben poca o mucha energía, por ejemplo: las de concreto absorben poca energía.
+            p Para cumplir a cabalidad con la producción técnica es necesario conocer el #[strong #[i backline]] que es todo aquel equipo electrónico de amplificación de audio que se coloca detrás de una banda o agrupación sobre un escenario, estudio de grabación o sala de ensayo para poder hacer un #[i show]. Junto con esto diferenciar #[strong los tipos de sonido] los cuales pueden ser de alta frecuencia, frecuencia media y baja frecuencia dependiendo del #[strong espacio si es cerrado] y del tamaño de la sala, se puede emitir un sonido directo que se concentra en la sala como energía sonora, este fenómeno se conoce como reverberación, el sonido en espacios cerrados se emite dependiendo de las paredes las cuales absorben poca o mucha energía, por ejemplo: las de concreto absorben poca energía.
             p En #[strong espacios abiertos] el sonido es más intenso y no tiene obstáculos en su propagación y permite una amplitud sonora favorable y una intensidad sonora propagando el sonido en forma esférica transformando la energía propagándola y repartiéndola sin que se pierda.
             p #[strong La iluminación para escenarios] es otro aspecto de la producción técnica en sus funciones, reconocer la variedad de iluminación dependiendo del evento y del escenario, en el caso de obras de teatro se hace una iluminación frontal, iluminación cenital, iluminación de contra, iluminación de fondo, iluminación de efectos, aunque se utilice estas iluminaciones en teatro solo existen dos tipos de iluminación en espectáculos que son la general y puntual. La general utiliza lámparas de techo y la focal o puntual  que apunta a un lugar en específico donde se encuentra el centro de atención del evento.
 
@@ -104,7 +105,7 @@
 
           .col-lg-9
             p Esta es la producción que optimiza los procesos de almacenamiento y traslado de materiales y equipos de apoyo para realización del evento, también se encarga de brindar apoyo en la planeación y ejecución del evento buscando un engranaje perfecto del mismo.
-            p Dentro de las funciones de un productor logístico, está el manejo del almacenamiento donde se mueve grandes cantidades de materiales y se tiene un control del stock, es fundamental conocer la trazabilidad de todos los materiales no solo en su cantidad sino en su condición óptima para utilización dentro del evento, realizando sustituciones si son necesarias en un tiempo adecuado antes de su uso.
+            p Dentro de las funciones de un productor logístico, está el manejo del almacenamiento donde se mueve grandes cantidades de materiales y se tiene un control del #[i stock], es fundamental conocer la trazabilidad de todos los materiales no solo en su cantidad sino en su condición óptima para utilización dentro del evento, realizando sustituciones si son necesarias en un tiempo adecuado antes de su uso.
             p Otra de las funciones es el transporte de estos elementos el cual se debe planear con mucho detalle para que todo esté en el lugar del evento en el tiempo establecido, se puede utilizar transporte aéreo, terrestre o marítimo dependiendo del lugar del evento, lo importante es prever tiempos y forma de almacenamiento y embalaje de los elementos garantizando que lleguen en buen estado. Para que la logística del transporte se realice con éxito es necesario utilizar un cronograma detallado haciendo un cálculo de los tiempos.
             p También es una función el transporte de las personas, su alojamiento, teniendo en cuenta que debe quedar cerca de la realización del evento para evitar transportes adicionales, en la gestión de traslado de las personas se debe contar con una base de datos clara que permita conocer el lugar de origen de las personas y los diferentes medios de transporte que podría usarse en su desplazamiento considerando el tiempo, los costos y las condiciones óptimas para las personas sean artistas , invitados o personajes centrales del evento.
             p El hospedaje de los artistas como de los personajes centrales del evento debe estar ubicado cerca del sitio o lugar donde se realizará el mismo, debe ser acordado en sus condiciones con base en las necesidades planteadas por los artistas o invitados especiales de tal forma que se sientan a gusto para desarrollar de la misma forma su participación o actuación en el espectáculo.
@@ -113,14 +114,14 @@
             p La seguridad como el aseo del lugar del espectáculo son otras de las funciones que ejerce este equipo logístico, dependiendo del escenario o sitio del evento deben revisar todos los aspectos necesarios para la seguridad en la ejecución de este, apoyarse con las entidades locales de prevención y atención de desastres, secretaría de salud, policía nacional en caso de ser un evento masivo, festivales, conciertos, ferias, manifestaciones entre otros.
             p Existen una serie de herramientas que ayudan a la ejecución y evaluación del evento y que son realizados desde la planeación de este entre ellos tenemos la ficha técnica del evento, un plan de trabajo del evento, organigrama, flujograma y cronograma que vamos a ver dentro del desarrollo este componente su importancia, diseño y aplicación dentro de la organización de un evento.       
 
-    .row.justify-content-center.my-5
+    .row.justify-content-center.my-5(data-aos="flip-down")
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img9.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p Cuando la naturaleza y características del evento requieran de Shows o muestras artísticas, se deberá tener en cuenta, además de las anteriores, la producción artística. Esta se enfoca en materializar el evento con una motivación social y cultural utilizando elementos como color, sonido, armonía, ritmo, movimiento, estos elementos diferencian una versión artística de otra. Cada producción artística es fuente de conocimiento y placer estético, mejora la sensibilidad y favorece las relaciones sociales.
+            p Cuando la naturaleza y características del evento requieran de #[i Shows] o muestras artísticas, se deberá tener en cuenta, además de las anteriores, la producción artística. Esta se enfoca en materializar el evento con una motivación social y cultural utilizando elementos como color, sonido, armonía, ritmo, movimiento, estos elementos diferencian una versión artística de otra. Cada producción artística es fuente de conocimiento y placer estético, mejora la sensibilidad y favorece las relaciones sociales.
 
     .row.my-5
       p Entre los cargos que se encuentran en esta producción artística están:
@@ -163,11 +164,10 @@
       .col-lg-9
         .bloque-texto-b1.color-acento-contenido.p-4
           .bloque-texto-b1__texto
-            p Los formatos que utiliza una producción artística varían de acuerdo con el evento pues puede ser digital o hibrido y en ese caso se utilizan formatos que corresponde con una extensión específica del archivo que lo contiene. Los más utilizados en la actualidad son: BMP, GIF, JPG, TIF y PNG.
+            p #[i Los formatos que utiliza una producción artística varían de acuerdo con el evento pues puede ser digital o hibrido y en ese caso se utilizan formatos que corresponde con una extensión específica del archivo que lo contiene. Los más utilizados en la actualidad son: BMP, GIF, JPG, TIF y PNG.]
             br
-            br
-            p Existe un formato como ejemplo que le invitamos a revisarlo en materiales de apoyo titulado “Formato para la presentación de proyectos de creación en artes y formas asimilables de producción de conocimiento”.
-      .col-lg-3
+            p #[i Existe un formato como ejemplo que le invitamos a revisarlo en materiales de apoyo titulado “Formato para la presentación de proyectos de creación en artes y formas asimilables de producción de conocimiento”.]
+      .col-lg-3(data-aos="fade-up-left")
         figure
           img(src='@/assets/curso/temas/tema1/img11.png', alt='Texto que describa la imagen')        
 

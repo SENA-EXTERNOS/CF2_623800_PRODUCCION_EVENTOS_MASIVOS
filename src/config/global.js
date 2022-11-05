@@ -165,11 +165,11 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Backline',
+      termino: '<i>Backline</i>',
       significado: 'equipo electrónico de amplificación de audio.',
     },
     {
-      termino: 'Briefing',
+      termino: '<i>Briefing</i>',
       significado:
         'herramienta de comunicación que sirve para vender el evento.',
     },
@@ -182,21 +182,21 @@ export default {
       significado: 'grupo de profesionales expertos en un hacer.',
     },
     {
-      termino: 'Free Press',
+      termino: '<i>Free Press</i>',
       significado:
         'comunicado de prensa que busca dar a conocer información clave.',
     },
     {
-      termino: 'Landig page',
+      termino: '<i>Landig page</i>',
       significado:
-        'es una página web que redirecciona a los usuarios a un sitio donde encuentra oferta de productos, servicios o eventos.',
+        'es una página <i>web</i> que redirecciona a los usuarios a un sitio donde encuentra oferta de productos, servicios o eventos.',
     },
     {
       termino: 'Negociación',
       significado: 'llegar a acuerdos que favorezcan las partes.',
     },
     {
-      termino: 'Página web',
+      termino: 'Página <i>web</i>',
       significado:
         'es un sitio o documento en internet donde los usuarios encuentran información en línea de un tema en texto, imágenes, audio, vídeo, hipervínculos entre otros.',
     },
@@ -205,17 +205,17 @@ export default {
       significado: 'realizar todas las gestiones previas de un evento.',
     },
     {
-      termino: 'Rider técnico',
+      termino: '<i>Rider</i> técnico',
       significado:
         'conoce las necesidades técnicas de los artistas en un espectáculo.',
     },
     {
-      termino: 'Streaming',
+      termino: '<i>Streaming</i>',
       significado:
-        'tecnología que permite transmitir contenido multimedia, vídeos o audios ya sea en vivo o diferido a dispositivos móviles, computadoras, tablets, portátiles.',
+        'tecnología que permite transmitir contenido multimedia, vídeos o audios ya sea en vivo o diferido a dispositivos móviles, computadoras, <i>tablets</i>, portátiles.',
     },
     {
-      termino: 'Target Group',
+      termino: '</i>Target Group</i>',
       significado:
         'grupo objetivo al cual se dirige en específico un producto, servicio o evento.',
     },
