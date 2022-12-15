@@ -236,21 +236,6 @@
     .row.my-5
       p Para ampliar su conocimiento al respecto, por favor consultar en el material complementario el tema:  Plan de trabajo de un evento - Flujograma.
 
-    .row.justify-content-around.align-items-centerrd.mt-5
-      .col-lg-10
-        .tarjeta.color-primario.p-3.mb-5
-          .row.justify-content-around.align-items-center
-            .col-3.col-lg-2
-              img(src="@/assets/curso/temas/tema3/img21.png").img12-tm2
-            .col-9.col-lg-9
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1 Anexo 1
-                  p Plan de trabajo de un evento - Flujograma
-                .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexo1.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
 
     separador
 
