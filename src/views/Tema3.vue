@@ -236,7 +236,6 @@
     .row.my-5
       p Para ampliar su conocimiento al respecto, por favor consultar en el material complementario el tema:  Plan de trabajo de un evento - Flujograma.
 
-
     separador
 
     #t_3_3
