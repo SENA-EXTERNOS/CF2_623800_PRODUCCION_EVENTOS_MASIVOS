@@ -86,7 +86,7 @@
             p El productor general es el encargado de #[strong realizar el cronograma] midiendo tiempos y movimientos para que lo planeado sea desarrollado en forma puntual. En este cronograma se detalla cada actividad, responsable y tiempos de ejecución, este instrumento también ayuda a la evaluación del evento. 
             p En cuanto a #[strong la estimación de los recursos] se debe contar con una base de inversión inicial y realizar un presupuesto de acuerdo con las exigencias del cliente sin desconocer que existe un porcentaje de ganancia y que toda negociación bien realizada se basa en gana – gana, esto quiere decir que todo es beneficio común.
         
-        .row(titulo="Producción Técnica")
+        .row(titulo="Producción técnica")
           .col-lg-3
             figure
               img(src="@/assets/curso/temas/tema1/img7.png", alt="alt")
@@ -168,7 +168,7 @@
             p Los formatos que utiliza una producción artística varían de acuerdo con el evento, pues puede ser digital o híbrido y en ese caso se utilizan formatos que corresponde con una extensión específica del archivo que lo contiene. Los más utilizados en la actualidad son: BMP, GIF, JPG, TIF y PNG.
             br
             p Existe un formato como ejemplo, lo invitamos a revisarlo en los materiales de apoyo, este se titula #[em “Formato para la presentación de proyectos de creación en artes y formas asimilables de producción de conocimiento”].
-      .col-lg-3(data-aos="fade-up-left")
+      .col-lg-3(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema1/img11.png', alt='Texto que describa la imagen')        
 
