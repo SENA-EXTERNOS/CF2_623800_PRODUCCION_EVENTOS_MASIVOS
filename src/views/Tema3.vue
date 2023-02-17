@@ -18,7 +18,7 @@
               p.my-3 Este es un instrumento fundamental que da en detalle cada aspecto del evento, se utiliza para realizar un estudio minucioso de cada actividad y su ejecución, permitiendo que se puedan realizar cambios en caso dado, la planeación se realiza como la gestión del proyecto donde cada fase preproducción, producción y postproducción sean vistas teniendo en cuenta todo tipo de consideración con base en el objetivo del evento.
          
     .row-my-5
-      p Dentro del plan de trabajo  se plantean uno o varios objetivos dependiendo del evento su magnitud e importancia, se revisan los recursos tanto financieros como físicos, las personas implicadas, el calendario, teniendo en cuenta que se va a desarrollar en forma progresiva y que los tiempos marcan algunos movimientos o actividades  específicas a gestionar, es indispensable tener presente el análisis DAFO que se aplica en este plan debido a que este ayuda a revisar aspectos relevantes o factores críticos que pueden entorpecer o lograr el éxito de lo propuesto y que a veces conlleva a crear estrategias o un plan B que nunca sobra en la organización de un evento.
+      p Dentro del plan de trabajo se plantean uno o varios objetivos dependiendo del evento, su magnitud e importancia, se revisan los recursos tanto financieros como físicos, las personas implicadas, el calendario, teniendo en cuenta que se va a desarrollar en forma progresiva y que los tiempos marcan algunos movimientos o actividades específicas a gestionar, es indispensable tener presente el análisis DAFO que se aplica en este plan debido a que este ayuda a revisar aspectos relevantes o factores críticos que pueden entorpecer o lograr el éxito de lo propuesto y que a veces conlleva a crear estrategias o un plan B que nunca sobra en la organización de un evento.
       p Existen tres factores fundamentales para el desarrollo de un plan de trabajo en un evento:
 
     .row.justify-content-center.my-5
@@ -59,7 +59,7 @@
             figure
               img(src="@/assets/curso/temas/tema3/img5.png", alt="alt")        
           .col-lg-10
-            p La importancia de realizar un plan de trabajo es que sistematiza los procesos, optimiza los tiempos, divide las tareas, elabora estrategias y se consolida un equipo de trabajo con perfiles profesionales. Para que este plan cumpla adecuadamente su función debe arrancar conociendo el tipo o naturaleza del evento a realizar y su objetivo u objetivos en caso dado, este plan se nutre de la ficha técnica y del cronograma que se haya realizado en la fase de planeación. Vamos a ver algunos de los componentes que se tienen en un plan de trabajo.
+            p La importancia de realizar un plan de trabajo, es que sistematiza los procesos, optimiza los tiempos, divide las tareas, elabora estrategias y se consolida un equipo de trabajo con perfiles profesionales. Para que este plan cumpla adecuadamente su función debe arrancar conociendo el tipo o naturaleza del evento a realizar y su objetivo u objetivos en caso dado, este plan se nutre de la ficha técnica y del cronograma que se haya realizado en la fase de planeación. A continuación se conocerán algunos de los componentes que se tienen en un plan de trabajo.
 
     separador
 
@@ -74,7 +74,7 @@
           p.mb-0 Teniendo como base que un organigrama es donde se define el orden jerárquico de una organización, en este caso, es el orden jerárquico del comité organizador del evento teniendo como base que existen a nivel general los siguientes cargos:  Coordinador general, comité financiero, comité logístico, comité de relaciones, comité de medios, sin embargo, este organigrama puede cambiar dependiendo del evento.
 
     .row.my-5
-      p Hay varios tipos de organigramas que se pueden aplicar a los eventos:
+      p Existen varios tipos de organigramas que se pueden aplicar a los eventos, tal como se muestra a continuación:
 
     .row.my-5
       .tarjeta.tarjeta--blanca.slyderA_bg_01.p-5(data-aos="zoom-out")
@@ -106,14 +106,14 @@
     .row.justify-content-center.my-5
       .col-lg-10(data-aos="fade-right")
         .cajon.color-acento-contenido.p-3
-          p Es necesario tener presente que existen algunos componentes en común dentro de un organigrama como son niveles altos de la organización o comité organizador, los subcomités, recursos de apoyo, comité de control y evaluación. 
+          p Es necesario tener presente que existen algunos componentes en común dentro de un organigrama, como son: niveles altos de la organización o comité organizador, los subcomités, los recursos de apoyo, el comité de control y la evaluación. 
           p El organigrama se puede elaborar teniendo como base los tipos existentes y de acuerdo con la necesidad de cada evento.
       .col-6.col-lg-2(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema3/img8.png", alt="alt")
 
     .row.my-5
-      p A continuación se visualizará algunos de los que pueden llegar a conformar el organigrama del evento y que funciones tienen a cargo:
+      p A continuación, se visualizan algunos de los que pueden llegar a conformar el organigrama del evento y las funciones que tienen a cargo:  
 
     .row.justify-content-center.my-5
       SlyderF(columnas="col-lg-6 col-xl-4")
@@ -128,28 +128,28 @@
           .row.justify-content-center.mb-3
             .col-7
               img(src='@/assets/curso/temas/tema3/img10.png' alt='AvatarTop')
-          h3.text-center.mt-5 Comité Financiero:
+          h3.text-center.mt-5 Comité financiero: 
           p.text-center Es el responsable de elaborar el presupuesto general del evento, teniendo claro cada uno de los rubros de gastos e inversión para llevar a cabo el evento, también identifica o busca cómo financiar el evento.
 
         .tarjeta.carrusel-morado.color-acento-botones.p-3
           .row.justify-content-center.mb-3
             .col-7
               img(src='@/assets/curso/temas/tema3/img11.png' alt='AvatarTop')
-          h3.text-center.mt-5 Comité Administrativo: 
+          h3.text-center.mt-5 Comité administrativo:  
           p.text-center Están delegados para administrar los recursos financieros, físicos, humanos necesarios para la buena ejecución del evento, tiene a cargo todo el apoyo logístico que se requiera para el éxito del evento.
 
         .tarjeta.carrusel-morado.color-acento-botones.p-3
           .row.justify-content-center.mb-3
             .col-7
               img(src='@/assets/curso/temas/tema3/img12.png' alt='AvatarTop')
-          h3.text-center Comité de Relaciones Públicas:
+          h3.text-center Comité de relacionas públicas: 
           p.text-center Son los responsables de la imagen del evento, estableciendo estrategias para la publicidad, divulgación, promoción, del evento identificando los mejores medios para dar a conocer el evento, también son los encargados de identificar los invitados y asistentes al evento, llevar el registro de asistencia, entrega de memorias del evento si son necesarias.
 
         .tarjeta.carrusel-morado.color-acento-botones.p-3
           .row.justify-content-center.mb-3
             .col-7
               img(src='@/assets/curso/temas/tema3/img13.png' alt='AvatarTop')
-          h3.text-center.mt-5 Comité de Logística: 
+          h3.text-center.mt-5 Comité de logística: 
           p.text-center Tienen a su cargo toda la gestión del lugar donde se desarrollará el evento, montaje y desmontaje del escenario, decoración, luces, sonido, distribución del espacio para que todos los invitados y asistentes se sientan a gusto.
 
     .row.justify-content-center.my-5
@@ -174,7 +174,7 @@
           .bloque-texto-b3__texto
             p El flujograma o diagrama de flujo de un evento es una herramienta que describe la secuencia de las actividades relacionando cada una de ellas, desde el comienzo del proceso, los puntos de decisión y el final. Su elaboración es importante porque lleva a definir en forma clara y precisa aspectos relevantes de los eventos y momentos críticos del mismo, permite ordenar las actividades eligiendo símbolos que conectan una con otra dando una secuencia lógica al desarrollo de la actividad o evento.
             br
-            p Existen una variedad de símbolos que conforman el flujograma como son:
+            p Existen variedades de símbolos que conforman el flujograma, como lo son: 
       .col-lg-2
         img(src='@/assets/curso/temas/tema3/img15.png' alt='AvatarTop').img15-tm3
 
@@ -213,7 +213,7 @@
               p.mt-5 Permite generar una pregunta donde se debe para tomar una decisión.
 
     .row.justify-content-center.my-5
-      p Existen diferentes tipos de flujogramas, a continuación se explicarán los que pueden ser de mayor utilidad para la organización de eventos. Estos son: 
+      p Existen diferentes tipos de flujogramas, a continuación, se explicarán los que pueden ser de mayor utilidad para la organización de eventos:
 
     .row.justify-content-center.my-5
       .col-lg-7.my-5(data-aos="fade-right")
@@ -228,7 +228,7 @@
             p Va de izquierda a derecha, según el orden de la lectura. 
 
           .row(titulo="Panorámico")
-            p combina los tipos horizontal y vertical y en un solo plano se visualiza la totalidad de las actividades o acciones de un proceso.
+            p Combina los tipos horizontal y vertical y en un solo plano se visualiza la totalidad de las actividades o acciones de un proceso.
 
           .row(titulo="Arquitectónico")
             p Representa el proceso de diseño, modificación o construcción de un espacio.
@@ -254,6 +254,8 @@
             br
             br
             p Es importante mencionar que existen dos diagramas que también apoyan la labor de la organización de un evento como son el de #[i Gantt] y el de #[i Pert].
+    
+    p A continuación, se muestran las características del cronograma y los diagramas de #[i Gantt] y de #[i Pert]: 
 
     .row.justify-content-center.my-5
       TabsC.color-primario
@@ -267,7 +269,7 @@
               p Dentro de los tipos de cronogramas que se encuentran para organización de eventos vamos a destacar tres de investigación, de trabajo y de hitos. El más utilizado en la organización de un evento es el de trabajo el cual marca los tiempos y movimientos. 
               p Cuando nos referimos a tiempos y movimientos estamos hablando de una herramienta que sirve para determinar los tiempos estándar de cada una de las tareas que componen cualquier proceso, como también para analizar los movimientos que son realizados por parte de un miembro de la organización del evento para realizar la operación.
 
-        .py-3.py-md-4(titulo="El Diagrama de <i>Gantt</i>:").tarjeta--morada3.texto-blanco
+        .py-3.py-md-4(titulo="El Diagrama de <i>Gantt</i>").tarjeta--morada3.texto-blanco
           .row.p-5
             .col-8.col-lg-4
               figure
@@ -318,7 +320,7 @@
                   | Vincular las actividades entre sí, esto se realiza teniendo como referencia la figura geométrica circular que representa los nodos y las flechas pueden representar los responsables para llevar a cabo la actividad.
                 li 
                   i.fas.fa-check
-                  | Definir los tiempos de cada actividad estableciendo tres tipos de tiempos: el tiempo mínimo para realizar la actividad, el tiempo máximo para realizar la actividad y el tiempo estimado o preciso para realizar la actividad.
+                  | Definir los tiempos de cada actividad estableciendo tres tipos de tiempos: el tiempo mínimo, el tiempo máximo y el tiempo estimado o preciso para realizar la actividad.
 
     .row.justify-content-center.my-5
       .col-lg-10(data-aos="flip-right")

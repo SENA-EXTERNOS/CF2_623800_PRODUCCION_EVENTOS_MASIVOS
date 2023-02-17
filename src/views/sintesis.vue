@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Estimado aprendiz a continuación podrá visualizar una síntesis de este componente formativo que muestra las ideas principales y los temas desarrollados
+    p Estimado aprendiz a continuación podrá visualizar una síntesis de este componente formativo que muestra las ideas principales y los temas desarrollados.
 
     .row.justify-content-center
       .col-lg-10.mb-5

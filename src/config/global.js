@@ -223,73 +223,74 @@ export default {
   referencias: [
     {
       referencia:
-        'Blog | Cesae Bussines & Tourism School. (2018). Cómo organizar un evento: ideas, fases y recomendaciones para tener éxito. Cesae https://www.cesae.es/blog/como-organizar-un-evento-ideas-fases-y-recomendaciones-para-tener-exito',
-      link: '',
-    },
-    {
-      referencia:
-        'Página web | Divulgación dinámica The Education Club. (2020). Etapas de la organización de eventos. Divulgación dinámica',
+        'Cesae Bussines & Tourism School. (2018). Cómo organizar un evento: ideas, fases y recomendaciones para tener éxito. Cesae ',
       link:
-        'https://www.divulgaciondinamica.es/etapas-de-la-organizacion-de-eventos/',
+        'https://www.cesae.es/blog/como-organizar-un-evento-ideas-fases-y-recomendaciones-para-tener-exito',
     },
     {
       referencia:
-        'Blog | Euroforum. (2018). ¿Cuáles son las funciones de un organizador de eventos?. Euroforum',
+        'Divulgación dinámica The Education Club. (2020). <em>Etapas de la organización de eventos.</em> Divulgación dinámica',
       link:
-        'https://www.euroforum.es/blog/funciones-de-un-organizador-de-eventos/',
+        'https://www.divulgaciondinamica.es/etapas-de-la-organizacion-de-eventos/ ',
     },
     {
       referencia:
-        'Ebook | Fundación Evolución y Wormhole (2018). Estrategias de diseño e implementación de eventos online. Wormhole Live Learning plarform ',
+        'Euroforum. (2018). <em>¿Cuáles son las funciones de un organizador de eventos?</em> Euroforum',
       link:
-        'https://www.wormholeit.com/wp-content/uploads/2018/10/Estrategias-de-diseno-e-implementacion-de-eventos-online.pdf.',
+        'https://www.euroforum.es/blog/funciones-de-un-organizador-de-eventos/ ',
     },
     {
       referencia:
-        'Página web | Madison Experience Marketing. (2018). Comunicación en los eventos, organiza tu estrategia. Madison Experience Marketing',
+        'Fundación Evolución y Wormhole (2018). <em>Estrategias de diseño e implementación de eventos online.</em> Wormhole Live Learning plarform ',
+      link:
+        'https://www.wormholeit.com/wp-content/uploads/2018/10/Estrategias-de-diseno-e-implementacion-de-eventos-online.pdf',
+    },
+    {
+      referencia:
+        'Madison Experience Marketing. (2018). <em>Comunicación en los eventos, organiza tu estrategia.</em> Madison Experience Marketing ',
+      link: 'https://www.natinnova.com/claves-2-0-para-un-evento-de-éxito/',
+    },
+    {
+      referencia:
+        'Natinnova. (2021). <em>Difusión de eventos: todo lo que debes tener en cuenta</em>. Natinnova',
       link: 'https://www.natinnova.com/claves-2-0-para-un-evento-de-exito/',
     },
     {
       referencia:
-        'Página web | Natinnova. (2021). Difusión de eventos: todo lo que debes tener en cuenta. Natinnova',
+        'Peewah. (2016). <em>Medios de comunicación que no pueden faltar para lograr la asistencia esperada a tu evento.</em> Peewah',
       link: 'https://www.natinnova.com/claves-2-0-para-un-evento-de-exito/',
     },
     {
       referencia:
-        'Página web | Peewah. (2016). Medios de comunicación que no pueden faltar para lograr la asistencia esperada a tu evento. Peewah',
-      link: 'https://www.natinnova.com/claves-2-0-para-un-evento-de-exito/',
-    },
-    {
-      referencia:
-        'Página web | Marketer Colombia (2021). ¿Qué debes tener en cuenta para crear un evento digital exitoso?. Mks Colombia',
+        'Marketer Colombia (2021). <em>¿Qué debes tener en cuenta para crear un evento digital exitoso?</em> Mks Colombia',
       link:
         'https://www.mkscolombia.com/in-the-eye-of-the-marketer/que-debes-tener-en-cuenta-para-crear-un-evento-digital-exitoso/',
     },
     {
       referencia:
-        'Página web | Meardon, Eddi . (Sin fecha). Todo sobre los diagramas de Gantt. Atlassian',
+        'Meardon, Eddi. (Sin fecha). <em>Todo sobre los diagramas de Gantt</em>. Atlassian',
       link: 'https://www.atlassian.com/es/agile/project-management/gantt-chart',
     },
     {
       referencia:
-        'Libro en línea | Navarro Almuedo, L. (2018). Planificación, organización y control de eventos. IC Editorial. ',
+        'Navarro Almuedo, L. (2018). <em>Planificación, organización y control de eventos.</em> IC Editorial. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/129553',
     },
     {
       referencia:
-        'Libro en línea | Rico, D. G. (2017). Gestión de eventos de marketing y comunicación. Ediciones de la U.',
+        'Rico, D. G. (2017). <em>Gestión de eventos de marketing y comunicación.</em> Ediciones de la U. ',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7127',
     },
     {
       referencia:
-        'Libro en línea | Sabater, F. y Ato, Ó. (2020). Planificación de la comunicación de eventos: estrategia e innovación en tiempos de inmediatez. Editorial UOC. ',
+        'Sabater, F. y Ato, Ó. (2020). <em>Planificación de la comunicación de eventos: estrategia e innovación en tiempos de inmediatez.</em> Editorial UOC. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/169695',
     },
     {
       referencia:
-        'Página web | Universidad Empresarial Siglo 21. (Sin fecha). Ficha Técnica de un Evento. Coursehero',
+        'Universidad Empresarial Siglo 21. (Sin fecha). <em>Ficha Técnica de un Evento</em>. Coursehero ',
       link:
         'https://www.coursehero.com/u/file/81186680/1-Ficha-tecnica-de-un-eventopdf/#comments',
     },
