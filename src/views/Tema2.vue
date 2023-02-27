@@ -65,7 +65,7 @@
                     .col-4.col-lg-2
                       h3 6
                     .col-8.col-lg-8
-                      p #[strong Responsable del evento:] se presenta al organizador de evento.
+                      p #[strong Responsable del evento:] se presenta al organizador del evento.
 
                 div(x="6%" y="59.6%" tooltip="" numero="")
                   .row.justify-content-center.align-items-center.mt-3

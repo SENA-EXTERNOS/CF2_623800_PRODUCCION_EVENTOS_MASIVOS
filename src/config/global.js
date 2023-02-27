@@ -130,14 +130,14 @@ export default {
         'Venustiano Carranza. (Sin fecha). Ficha Técnica Jefatura Delegacional. Venustiano Carranza',
       tipo: 'Documento',
       link:
-        'https://qroo.gob.mx/sites/default/files/comisionesabiertas/2018-02/PDF%20FICHA%20T%C3%89CNICA%20FIRMA%20DE%20CONVENIO%20CROM_0.pdf ',
+        'https://www.vcarranza.cdmx.gob.mx/transparencia/documentos_2018/art_124/23_F_XXIII/ANIV_MERC_MERCED_SONORA.pdf ',
     },
     {
       tema: 'Ficha técnica del evento',
       referencia:
         'Gobierno de Coahuila. (Sin fecha). Ficha Técnica de evento. Docplayer.es',
       tipo: 'Documento',
-      link: 'https://docplayer.es/15537767-Ficha-tecnica-de-evento.html',
+      link: 'https://docplayer.es/15537767-Ficha-tecnica-de-evento.html ',
     },
     {
       tema: 'Plan de trabajo de un evento - Organigrama',
@@ -145,7 +145,7 @@ export default {
         'Luisa Fernanda Roa Martínez. (Sin fecha). Estructura Organizacional de los eventos. Yumpu.com',
       tipo: 'Enlace web',
       link:
-        'https://www.yumpu.com/es/document/read/65302521/estructura-organizacional-de-los-eventos',
+        'https://www.yumpu.com/es/document/read/65302521/estructura-organizacional-de-los-eventos ',
     },
     {
       tema: 'Plan de trabajo de un evento - Flujograma',
@@ -153,23 +153,30 @@ export default {
         'González, Otto (2022). ¿Qué es un diagrama de flujo y para qué sirve? [Web log post] Crehana.',
       tipo: 'Blog',
       link:
-        'https://www.crehana.com/blog/negocios/que-es-un-diagrama-de-flujo/',
+        'https://www.crehana.com/blog/negocios/que-es-un-diagrama-de-flujo/ ',
     },
     {
       tema: 'Plan de trabajo – cronograma',
       referencia:
-        'Plantillas gratis para planificación de un evento en Excel, Google Sheets y GanttPRO. Ganttpro.',
-      tipo: 'página web',
-      link: 'https://ganttpro.com/es/event-planning-templates/',
+        'Asana Team. (2021). El diagrama de pert: qué es y cómo crearlo. Asana.',
+      tipo: 'Página web',
+      link: 'https://asana.com/es/resources/pert-chart ',
+    },
+    {
+      tema: 'Plantillas para planificación de eventos',
+      referencia:
+        'Plantillas gratis para planificación de un evento en Excel, Google Sheets y GanttPRO. Ganttpro. ',
+      tipo: 'Página web',
+      link: 'https://ganttpro.com/es/event-planning-templates/ ',
     },
   ],
   glosario: [
     {
-      termino: '<i>Backline</i>',
+      termino: 'Backline',
       significado: 'equipo electrónico de amplificación de audio.',
     },
     {
-      termino: '<i>Briefing</i>',
+      termino: 'Briefing',
       significado:
         'herramienta de comunicación que sirve para vender el evento.',
     },
@@ -182,21 +189,21 @@ export default {
       significado: 'grupo de profesionales expertos en un hacer.',
     },
     {
-      termino: '<i>Free Press</i>',
+      termino: 'Free Press',
       significado:
         'comunicado de prensa que busca dar a conocer información clave.',
     },
     {
-      termino: '<i>Landig page</i>',
+      termino: 'Landig page',
       significado:
-        'es una página <i>web</i> que redirecciona a los usuarios a un sitio donde encuentra oferta de productos, servicios o eventos.',
+        'es una página web que redirecciona a los usuarios a un sitio donde encuentra oferta de productos, servicios o eventos.',
     },
     {
       termino: 'Negociación',
       significado: 'llegar a acuerdos que favorezcan las partes.',
     },
     {
-      termino: 'Página <i>web</i>',
+      termino: 'Página web',
       significado:
         'es un sitio o documento en internet donde los usuarios encuentran información en línea de un tema en texto, imágenes, audio, vídeo, hipervínculos entre otros.',
     },
@@ -205,17 +212,17 @@ export default {
       significado: 'realizar todas las gestiones previas de un evento.',
     },
     {
-      termino: '<i>Rider</i> técnico',
+      termino: 'Rider técnico',
       significado:
         'conoce las necesidades técnicas de los artistas en un espectáculo.',
     },
     {
-      termino: '<i>Streaming</i>',
+      termino: 'Streaming',
       significado:
-        'tecnología que permite transmitir contenido multimedia, vídeos o audios ya sea en vivo o diferido a dispositivos móviles, computadoras, <i>tablets</i>, portátiles.',
+        'tecnología que permite transmitir contenido multimedia, vídeos o audios ya sea en vivo o diferido a dispositivos móviles, computadoras, tablets, portátiles.',
     },
     {
-      termino: '</i>Target Group</i>',
+      termino: 'Target Group',
       significado:
         'grupo objetivo al cual se dirige en específico un producto, servicio o evento.',
     },
@@ -248,17 +255,17 @@ export default {
     {
       referencia:
         'Madison Experience Marketing. (2018). <em>Comunicación en los eventos, organiza tu estrategia.</em> Madison Experience Marketing ',
-      link: 'https://www.natinnova.com/claves-2-0-para-un-evento-de-éxito/',
+      link: '',
     },
     {
       referencia:
         'Natinnova. (2021). <em>Difusión de eventos: todo lo que debes tener en cuenta</em>. Natinnova',
-      link: 'https://www.natinnova.com/claves-2-0-para-un-evento-de-exito/',
+      link: '',
     },
     {
       referencia:
         'Peewah. (2016). <em>Medios de comunicación que no pueden faltar para lograr la asistencia esperada a tu evento.</em> Peewah',
-      link: 'https://www.natinnova.com/claves-2-0-para-un-evento-de-exito/',
+      link: '',
     },
     {
       referencia:

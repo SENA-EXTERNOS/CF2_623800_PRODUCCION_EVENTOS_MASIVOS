@@ -30,7 +30,7 @@
                 img(src="@/assets/curso/temas/tema3/img2.png", alt="alt")
             .col-auto.my-4
               h4.text-center Las acciones:
-              p.text-center Las acciones tareas por desarrollar.  
+              p.text-center Tareas por desarrollar.
 
       .col-10.col-lg-3.my-3
         .tarjeta--morada2.p-4(data-aos="flip-down")
@@ -218,7 +218,7 @@
     .row.justify-content-center.my-5
       .col-lg-7.my-5(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/temas/tema3/img20.png', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema3/img20.svg', alt='Texto que describa la imagen') 
       .col-lg-5  
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--morada")
           .row(titulo="Vertical")
