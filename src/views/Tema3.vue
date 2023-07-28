@@ -210,7 +210,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img19.png', alt='Texto que describa la imagen')
             .col-md-6
-              p.mt-5 Permite generar una pregunta donde se debe para tomar una decisión.
+              p.mt-5 Permite generar una pregunta donde se debe, para tomar una decisión.
 
     .row.justify-content-center.my-5
       p Existen diferentes tipos de flujogramas, a continuación, se explicarán los que pueden ser de mayor utilidad para la organización de eventos:

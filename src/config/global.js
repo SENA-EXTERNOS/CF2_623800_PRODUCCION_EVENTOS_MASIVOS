@@ -119,14 +119,6 @@ export default {
     {
       tema: 'Ficha técnica del evento',
       referencia:
-        'Quintana Roo. (Sin fecha). Ficha Técnica de Eventos. Quintana Roo',
-      tipo: 'Documento',
-      link:
-        'https://qroo.gob.mx/sites/default/files/comisionesabiertas/2018-02/PDF%20FICHA%20T%C3%89CNICA%20FIRMA%20DE%20CONVENIO%20CROM_0.pdf ',
-    },
-    {
-      tema: 'Ficha técnica del evento',
-      referencia:
         'Venustiano Carranza. (Sin fecha). Ficha Técnica Jefatura Delegacional. Venustiano Carranza',
       tipo: 'Documento',
       link:
