@@ -261,21 +261,22 @@
       TabsC.color-primario
         .py-3.py-md-4(titulo="Cronograma").tarjeta--morada3.texto-blanco
           .row.p-5
-            .col-8.col-lg-4
+            .col-lg-6
               figure
-                img(src='@/assets/curso/temas/tema3/img23.png', alt='Texto que describa la imagen')
-            .col-lg-8
+                img.img-a.img-t(src='@/assets/curso/temas/tema3/23.png', alt='Texto que describa la imagen')
+            .col-lg-6
               p Esta es una herramienta muy útil para realizar el seguimiento de cada tarea o actividad en forma cronológica, con un responsable a cargo de desarrollarla.
               p Dentro de los tipos de cronogramas que se encuentran para organización de eventos vamos a destacar tres de investigación, de trabajo y de hitos. El más utilizado en la organización de un evento es el de trabajo el cual marca los tiempos y movimientos. 
               p Cuando nos referimos a tiempos y movimientos estamos hablando de una herramienta que sirve para determinar los tiempos estándar de cada una de las tareas que componen cualquier proceso, como también para analizar los movimientos que son realizados por parte de un miembro de la organización del evento para realizar la operación.
 
         .py-3.py-md-4(titulo="El Diagrama de <i>Gantt</i>").tarjeta--morada3.texto-blanco
           .row.p-5
-            .col-8.col-lg-4
+            .col-lg-6
               figure
-                img(src='@/assets/curso/temas/tema3/img24.png', alt='Texto que describa la imagen')
-            .col-lg-8
+                img.img-a.img-t.mb-4(src='@/assets/curso/temas/tema3/24.png', alt='Texto que describa la imagen')
               p Es una herramienta en la que se proyecta la planificación de una actividad o en este caso de un evento. Cuenta con dos secciones: en la parte izquierda se incluye una lista de tareas y, en la derecha, un cronograma con barras que representan el trabajo, también puede incluir las fechas de inicio y de finalización de las tareas.
+                     
+            .col-lg-6
               p Algunas de las ventajas de elaborar el diagrama de #[i Gantt] para los eventos:
               ul.lista-ul.mb-4
                 li 
@@ -286,8 +287,7 @@
                   |  Se puede visualizar las fechas de inicio y finalización de cada actividad, para un mayor cumplimiento, seguimiento y control de las actividades establecidas.
                 li 
                   i.fas.fa-check
-                  |  Se visualiza los responsables para que todo el equipo o comité este coordinado. 
-              
+                  |  Se visualiza los responsables para que todo el equipo o comité este coordinado.                   
               p Para desarrollar un diagrama de #[i Gantt] se debe tener en cuenta:
               ul.lista-ul.mb-4
                 li 
@@ -302,11 +302,12 @@
         
         .py-3.py-md-4(titulo="El Diagrama de <i>Pert</i>").tarjeta--morada3.texto-blanco
           .row.p-5
-            .col-8.col-lg-4
+            .col-lg-6
               figure
-                img(src='@/assets/curso/temas/tema3/img25.png', alt='Texto que describa la imagen')
-            .col-lg-8
-              p Es una herramienta que se usa como técnica de revisión y evaluación de programas, tiene como objetivo programar, planificar y controlar proyectos de gran envergadura que, debido al gran número de actividades, que forman parte de este, necesitan una coordinación efectiva. 
+                img.img-t.img-a.mb-4(src='@/assets/curso/temas/tema3/25.png', alt='Texto que describa la imagen')
+              p Es una herramienta que se usa como técnica de revisión y evaluación de programas, tiene como objetivo programar, planificar y controlar proyectos de gran envergadura que, debido al gran número de actividades, que forman parte de este, necesitan una coordinación efectiva.                 
+            .col-lg-6
+
               p #[i Pert] significa (#[i Program Evaluation and Review Technique] – Técnica de revisión y evaluación de programas), donde se desglosan de manera individual las actividades. Los pasos para tener en cuenta para la creación de un diagrama #[i Pert] son:
               ul.lista-ul.mb-4
                 li 
