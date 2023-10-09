@@ -29,7 +29,7 @@
               figure
                 img(src="@/assets/curso/temas/tema3/img2.png", alt="alt")
             .col-auto.my-4
-              h4.text-center Las acciones:
+              h4.text-center Las acciones
               p.text-center Tareas por desarrollar.
 
       .col-10.col-lg-3.my-3
@@ -39,7 +39,7 @@
               figure
                 img(src="@/assets/curso/temas/tema3/img3.png", alt="alt")
             .col-auto.my-4
-              h4.text-center El tiempo:
+              h4.text-center El tiempo
               p.text-center Tiempo para la realización de cada tarea.  
 
       .col-10.col-lg-3.my-3
@@ -49,7 +49,7 @@
               figure
                 img(src="@/assets/curso/temas/tema3/img4.png", alt="alt")
             .col-auto.my-4
-              h4.text-center Los canales:
+              h4.text-center Los canales
               p.text-center Donde se van a llevar a cabo las tareas.  
 
     .row.justify-content-center.my-5
@@ -85,7 +85,7 @@
 
             .col-lg-6
               figure
-                img(src="@/assets/curso/temas/tema3/img7.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/img7.svg", alt="alt")
 
           .row
             .col-lg-6
@@ -93,7 +93,7 @@
 
             .col-lg-6
               figure
-                img(src="@/assets/curso/temas/tema3/img7-2.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/img7-2.svg", alt="alt")
 
           .row
             .col-lg-6
@@ -101,7 +101,7 @@
 
             .col-lg-6
               figure
-                img(src="@/assets/curso/temas/tema3/img7-3.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/img7-3.svg", alt="alt")
 
     .row.justify-content-center.my-5
       .col-lg-10(data-aos="fade-right")
@@ -121,35 +121,35 @@
           .row.justify-content-center.mb-3
             .col-7
               img(src='@/assets/curso/temas/tema3/img9.png' alt='AvatarTop')
-          h3.text-center.mt-5 Coordinador del evento: 
+          h3.text-center.mt-5 Coordinador del evento
           p.text-center Es el encargado de dirigir a todo el equipo encargado del desarrollo del evento y verificar que todo lo que se ha planeado y organizado se lleve a cabo de una manera satisfactoria.
 
         .tarjeta.carrusel-morado.color-acento-botones.p-3
           .row.justify-content-center.mb-3
             .col-7
               img(src='@/assets/curso/temas/tema3/img10.png' alt='AvatarTop')
-          h3.text-center.mt-5 Comité financiero: 
+          h3.text-center.mt-5 Comité financiero
           p.text-center Es el responsable de elaborar el presupuesto general del evento, teniendo claro cada uno de los rubros de gastos e inversión para llevar a cabo el evento, también identifica o busca cómo financiar el evento.
 
         .tarjeta.carrusel-morado.color-acento-botones.p-3
           .row.justify-content-center.mb-3
             .col-7
               img(src='@/assets/curso/temas/tema3/img11.png' alt='AvatarTop')
-          h3.text-center.mt-5 Comité administrativo:  
+          h3.text-center.mt-5 Comité administrativo 
           p.text-center Están delegados para administrar los recursos financieros, físicos, humanos necesarios para la buena ejecución del evento, tiene a cargo todo el apoyo logístico que se requiera para el éxito del evento.
 
         .tarjeta.carrusel-morado.color-acento-botones.p-3
           .row.justify-content-center.mb-3
             .col-7
               img(src='@/assets/curso/temas/tema3/img12.png' alt='AvatarTop')
-          h3.text-center Comité de relacionas públicas: 
+          h3.text-center Comité de relaciones públicas
           p.text-center Son los responsables de la imagen del evento, estableciendo estrategias para la publicidad, divulgación, promoción, del evento identificando los mejores medios para dar a conocer el evento, también son los encargados de identificar los invitados y asistentes al evento, llevar el registro de asistencia, entrega de memorias del evento si son necesarias.
 
         .tarjeta.carrusel-morado.color-acento-botones.p-3
           .row.justify-content-center.mb-3
             .col-7
               img(src='@/assets/curso/temas/tema3/img13.png' alt='AvatarTop')
-          h3.text-center.mt-5 Comité de logística: 
+          h3.text-center.mt-5 Comité de logística
           p.text-center Tienen a su cargo toda la gestión del lugar donde se desarrollará el evento, montaje y desmontaje del escenario, decoración, luces, sonido, distribución del espacio para que todos los invitados y asistentes se sientan a gusto.
 
     .row.justify-content-center.my-5

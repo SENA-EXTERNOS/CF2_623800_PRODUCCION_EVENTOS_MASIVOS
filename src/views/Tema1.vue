@@ -37,7 +37,7 @@
             .col-lg-8
               h4 Producción 
               p La fase de planeación se enfoca en #[strong la producción del evento], se empieza a revisar toda su logística o movimiento, cada detalle que lo conforma y que hacen que se cree una identidad del mismo. 
-              p En esta fase de Producción o planeación, el organizador del evento juega un papel de coordinador, supervisor, controla todos los aspectos del evento y sus imprevistos. 
+              p En esta fase de producción o planeación, el organizador del evento juega un papel de coordinador, supervisor, controla todos los aspectos del evento y sus imprevistos. 
               p El coordinador está a cargo del equipo técnico y humano que está en el lugar o escenario, quienes con roles muy determinados son responsables de cada detalle del evento. Es necesario mencionar que el coordinador o el organizador del evento está al frente del mismo, desde el montaje hasta el desmontaje y sortea todos los imprevistos.
               p Por esto, contar con todos los profesionales que exija el evento, evita la incertidumbre durante la ejecución y ofrece la confianza y seguridad al cliente, de que todos sus requerimientos se cumplirán con excelencia, buscando siempre un equilibrio entre esta y las decisiones que se deben tomar a última hora. Es importante reconocer un límite en esta toma de decisiones para evitar que el evento se caiga.
 
