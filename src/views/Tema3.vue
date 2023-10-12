@@ -67,11 +67,13 @@
       h2 3.1 Organigrama
 
     .row.justify-content-center.my-5(data-aos="flip-up")
-      .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-        .bloque-texto-g__img(
-          :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img6.png')})`}")
-        .bloque-texto-g2__texto.p-4
-          p.mb-0 Teniendo como base que un organigrama es donde se define el orden jerárquico de una organización, en este caso, es el orden jerárquico del comité organizador del evento teniendo como base que existen a nivel general los siguientes cargos:  Coordinador general, comité financiero, comité logístico, comité de relaciones, comité de medios, sin embargo, este organigrama puede cambiar dependiendo del evento.
+      figure
+        img(src='@/assets/curso/temas/tema3/img6a.svg', alt='imagen decorativa')
+      //- .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
+      //-   .bloque-texto-g__img(
+      //-     :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img6.svg')})`}")
+      //-   .bloque-texto-g2__texto.p-4
+      //-     p.mb-0 Teniendo como base que un organigrama es donde se define el orden jerárquico de una organización, en este caso, es el orden jerárquico del comité organizador del evento teniendo como base que existen a nivel general los siguientes cargos:  Coordinador general, comité financiero, comité logístico, comité de relaciones, comité de medios, sin embargo, este organigrama puede cambiar dependiendo del evento.
 
     .row.my-5
       p Existen varios tipos de organigramas que se pueden aplicar a los eventos, tal como se muestra a continuación:
